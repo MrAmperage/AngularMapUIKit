@@ -4,6 +4,8 @@ UIKit для виджетов картографического модуля [A
 
 Используется в :
 
-- [AngularTransportsDeckGLWidget](https://github.com/MrAmperage/AngularTransportsDeckGLWidget) Виджет отображения транспорта в реальном времени
+- [AngularTransportsDeckGLWidget](https://github.com/MrAmperage/AngularTransportsDeckGLWidget) Виджет отображения транспорта в реальном времени.
 
-- [AngularDrillingProjectsDeckGLWidget](https://github.com/MrAmperage/AngularDrillingProjectsDeckGLWidget) Виджет отображения проектов бурения
+- [AngularDrillingProjectsDeckGLWidget](https://github.com/MrAmperage/AngularDrillingProjectsDeckGLWidget) Виджет отображения проектов бурения.
+
+- [AngularTerrainDeckGLWidget](https://github.com/MrAmperage/AngularTerrainDeckGLWidget) Виджет отображения поверхноти земли.
