@@ -1,2 +1,3 @@
 # MapUIKit
-UIKit для картографических модулей на основе NGZorro
+
+UIKit для картографического модуля [AngularDeckGL](https://github.com/MrAmperage/AngularDeckGL) на основе NGZorro
