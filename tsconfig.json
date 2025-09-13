@@ -2,7 +2,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "paths": {
-      "AngularDeckGL": ["dist/map-ui-kit"]
+      "AngularDeckGL": ["dist/angular-map-ui-kit"]
     },
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
