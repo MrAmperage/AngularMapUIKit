@@ -8,4 +8,4 @@ UIKit для виджетов картографического модуля [A
 
 - [AngularDrillingProjectsDeckGLWidget](https://github.com/MrAmperage/AngularDrillingProjectsDeckGLWidget) Виджет отображения проектов бурения.
 
-- [AngularTerrainDeckGLWidget](https://github.com/MrAmperage/AngularTerrainDeckGLWidget) Виджет отображения поверхноти земли.
+- [AngularTerrainDeckGLWidget](https://github.com/MrAmperage/AngularTerrainDeckGLWidget) Виджет отображения поверхности земли.
